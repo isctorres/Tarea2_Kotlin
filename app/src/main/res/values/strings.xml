@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BasketBallContadorApp</string>
+    <string name="puntos3">+3 Puntos</string>
+    <string name="puntos2">+2 Puntos</string>
+    <string name="punto1">Tiro Libre</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="equipoa">Equipo A</string>
+    <string name="equipob">Equipo B</string>
+</resources>
