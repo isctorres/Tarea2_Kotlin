@@ -41,6 +41,8 @@ class MainActivity : AppCompatActivity(), OnClickListener{
     private fun limpiarScores() {
         txtScore1.text = "0"
         txtScore2.text = "0"
+        scoreA = 0
+        scoreB = 0
     }
 
     private fun sumarPuntosA(i: Int) {
